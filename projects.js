@@ -7,27 +7,27 @@ const projects = [
 },
 
 {
-    title: "🤖 TutorIA",
-    description: "Asistente inteligente para estudiar oposiciones.",
-    url: "https://campus.testonlineope.es"
-},
-
-{
     title: "🚲 BiciLPA",
     description: "Mapa ciclista de Las Palmas de Gran Canaria.",
-    url: "https://TU-USUARIO.github.io/bicilpa/"
+    url: "https://hchafla.github.io/bicilpa/"
 },
 
-{
-    title: "💻 GitHub",
-    description: "Código fuente y proyectos.",
-    url: "https://github.com/TU-USUARIO"
+    {
+    title: "📢 Últimos Llamientos Enfermera SCS ",
+    description: "Recibe al instante los nuevos llamamientos de Enfermera publicados por el Servicio Canario de la Salud.",
+    url: "https://t.me/alertasllamamientosenfermeriascs"
+},
+
+        {
+    title: "📢 Últimos Llamientos TCAE SCS ",
+    description: "Recibe al instante los nuevos llamamientos de TCAE publicados por el Servicio Canario de la Salud.",
+    url: "https://t.me/alertasllamamientostcaescs"
 },
 
 {
     title: "📧 Contacto",
     description: "Escríbeme.",
-    url: "mailto:tucorreo@correo.com"
+    url: "chafla@gmail.com"
 }
 
 ];
