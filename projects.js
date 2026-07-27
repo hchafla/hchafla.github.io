@@ -13,7 +13,7 @@ const projects = [
 },
 
     {
-    title: "📢 Últimos Llamamientos Enfermera SCS ",
+    title: "📢 Últimos Llamamientos Enfermería SCS ",
     description: "Recibe al instante los últimos llamamientos de Enfermera publicados por el Servicio Canario de la Salud.",
     url: "https://t.me/alertasllamamientosenfermeriascs"
 },
