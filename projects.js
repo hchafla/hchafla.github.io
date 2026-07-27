@@ -14,19 +14,19 @@ const projects = [
 
     {
     title: "📢 Últimos Llamamientos Enfermería SCS ",
-    description: "Recibe al instante los últimos llamamientos de Enfermera publicados por el Servicio Canario de la Salud.",
+    description: "Recibe al instante los últimos llamamientos de Enfermera publicados por el SCS.",
     url: "https://t.me/alertasllamamientosenfermeriascs"
 },
 
         {
     title: "📢 Últimos Llamamientos TCAE SCS ",
-    description: "Recibe al instante los últimos llamamientos de TCAE publicados por el Servicio Canario de la Salud.",
+    description: "Recibe al instante los últimos llamamientos de TCAE publicados por el SCS.",
     url: "https://t.me/alertasllamamientostcaescs"
 },
 
     {
     title: "📧 Contacto",
-    description: "Escríbeme.",
+    description: "",
     url: "mailto:chafla@gmail.com"
 },
 
