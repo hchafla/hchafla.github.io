@@ -24,10 +24,16 @@ const projects = [
     url: "https://t.me/alertasllamamientostcaescs"
 },
 
-{
+    {
     title: "📧 Contacto",
     description: "Escríbeme.",
     url: "chafla@gmail.com"
+}
+
+{
+    title: "☕ Apoya el proyecto",
+    description: "Si algo de esto te resulta útil y quieres que siga creciendo, aquí puedes colaborar",
+    url: "https://ko-fi.com/hafisio"
 }
 
 ];
