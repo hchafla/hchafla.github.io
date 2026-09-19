@@ -13,11 +13,21 @@ const projects = [
 },
 
     {
+    title: "⚽ futbolplaya.es",
+    description: "Página dedicada al fútbol playa en España",
+    url: "https://futbolplaya.es"
+},
+    {
     title: "📢 Últimos Llamamientos Enfermería SCS ",
     description: "Recibe al instante los últimos llamamientos de Enfermera publicados por el SCS.",
     url: "https://t.me/alertasllamamientosenfermeriascs"
 },
 
+        {
+    title: "📢 Últimos Llamamientos Celadores SCS ",
+    description: "Recibe al instante los últimos llamamientos de TCAE publicados por el SCS.",
+    url: "https://t.me/alertasllamamientosceladoresscs"
+},
         {
     title: "📢 Últimos Llamamientos TCAE SCS ",
     description: "Recibe al instante los últimos llamamientos de TCAE publicados por el SCS.",
